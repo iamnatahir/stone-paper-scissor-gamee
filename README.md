@@ -1,0 +1,1 @@
+This is a simple Rock Paper Scissors game implemented with HTML, CSS, and JavaScript. The user can play against the computer by selecting rock, paper, or scissors. The game keeps track of the score, displays the results of each round, and updates the message based on the outcome.
